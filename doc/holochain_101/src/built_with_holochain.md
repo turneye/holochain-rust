@@ -36,7 +36,7 @@ Please click "suggest an edit", and add something you built with Holochain to th
 - [Pacio’s](https://www.pacio.io/) [Tender](https://www.tender.buzz/). A zero-fee transaction platform for distributed apps, built on Holochain.
 - [Jala](https://jala.io/): "A digital platform that makes participation in any venture verifiable, intuitive and automated without the need for intermediaries."
 - [Bizgees](https://www.bizgees.org/): Transforming refugees into entrepreneurs using FinTech.
-- [bHive](https://bhive.coop/): "The bHive Cooperative is a community owned person-to-person sharing economy platform being developed for Bendigo [bank] by a team of five local entrepreneurs. bHive is the future of work."
+- [bHive](https://bhive.coop/): "The bHive Cooperative is a community owned person-to-person sharing economy platform being developed for Bendigo by a team of five local entrepreneurs. bHive is the future of work."
 - [Joatu](https://alpha.joatu.org/): skills and goods marketplace for local communities.
 - [2RowFlow](https://www.2rowflow.com/): "A Digital Commons for Treaty People in Canada"
 - [Arcade City Realgame](https://arcade.city/). A decentralized ride-sharing platform. See also https://github.com/ArcadeCity/unter and https://forum.arcade.city/t/pivoting-upward/37. It's not clear whether the latest closed-source implementation is built on Holochain—so it's best to assume that it's not.
